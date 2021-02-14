@@ -11,3 +11,13 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may us
 Your final project must be cohesive. The point of visualizations is telling a story. Each visualization should stand on its own and be a part of the overall story. Are you presenting data on gender differences to to show the officials Citibike needs to change its model? Are you analyzing the difference between pre and post covid usage? Each visual should support this story.
 
 You can also create your project for a different audience if you wish--Citibike Corporate for example.
+
+Calculate trip duration by birth year .
+
+Find the most busy start stations and scaling it to 10 top busy start stations.
+
+Find the most busy End stations and scaling it to 10  to busy end stations.
+
+Identify the must must bike and scaling them to 50 must used bikes by BikeID.
+
+Identify busy stations by gender and household income data
