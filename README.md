@@ -12,6 +12,10 @@ Your final project must be cohesive. The point of visualizations is telling a st
 
 You can also create your project for a different audience if you wish--Citibike Corporate for example.
 
+Cleaned and merge data using jupyter notebook
+
+Export data to csv,
+
 Calculate trip duration by birth year .
 
 Find the most busy start stations and scaling it to 10 top busy start stations.
@@ -20,4 +24,11 @@ Find the most busy End stations and scaling it to 10  to busy end stations.
 
 Identify the must must bike and scaling them to 50 must used bikes by BikeID.
 
-Identify busy stations by gender and household income data
+Identify busy stations by gender and household income data.
+
+Find short and long term subscribers based on gender.
+
+Find usertype  by age or date of birth.
+
+Get average tripduration by bike.
+
